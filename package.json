@@ -1,0 +1,29 @@
+{
+  "name": "projectrecheck",
+  "version": "1.0.0",
+  "description": "\"# projectrecheck\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadcode1122/projectrecheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadcode1122/projectrecheck/issues"
+  },
+  "homepage": "https://github.com/sadcode1122/projectrecheck#readme",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "puppeteer": "^24.42.0"
+  }
+}
